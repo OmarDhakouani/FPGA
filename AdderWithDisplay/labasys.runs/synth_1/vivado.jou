@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Mon Oct 23 18:12:00 2023
+# Process ID: 19268
+# Current directory: C:/Users/dhako/Desktop/FPGA/Ex_Files_FPGA_Development/Exercise Files/Vivado/AdderWithDisplay/labasys.runs/synth_1
+# Command line: vivado.exe -log AdderWithDisplay.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source AdderWithDisplay.tcl
+# Log file: C:/Users/dhako/Desktop/FPGA/Ex_Files_FPGA_Development/Exercise Files/Vivado/AdderWithDisplay/labasys.runs/synth_1/AdderWithDisplay.vds
+# Journal file: C:/Users/dhako/Desktop/FPGA/Ex_Files_FPGA_Development/Exercise Files/Vivado/AdderWithDisplay/labasys.runs/synth_1\vivado.jou
+# Running On: LAPTOP-P8I28OU7, OS: Windows, CPU Frequency: 3194 MHz, CPU Physical cores: 16, Host memory: 34204 MB
+#-----------------------------------------------------------
+source AdderWithDisplay.tcl -notrace
